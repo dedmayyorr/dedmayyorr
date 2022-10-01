@@ -12,7 +12,7 @@
 - 🔭 I’m currently studying  at  Akilkhanov Tech academy
 - :computer: Most used line of code  git
 - 🤔 I’m looking for  best ideas
-- 📫 How to reach me:  <a href="mfor8134@gmail.com"><img src="https://img.shields.io/badge/-isfandiyor-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white "/></a>
+- 📫 How to reach me:<img src="https://img.shields.io/badge/-mfor8134@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white "/></a>
 - 😄 Pronouns:  Ixa
 - ⚡ Fun fact: I play games .
 
