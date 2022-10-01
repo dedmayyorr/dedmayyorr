@@ -1,5 +1,5 @@
   ## Hi I'm I'm isfandiyor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
- <img src="https://www.instagram.com/reel/ChWJUYlowBX/?utm_source=ig_web_copy_link" widh="206px" height="206">
+<img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" widh="206px" height="206">
 
 
 :mailbox: Reach me out!
