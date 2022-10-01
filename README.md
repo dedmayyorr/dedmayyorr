@@ -15,10 +15,11 @@
 - 📫 How to reach me: mfor8134@gmail.com or call to +998909078211
 - 😄 Pronounce :  Ixa
 - ⚡ Fun fact: I play games .
-
-####  my programming lines
-
-<!-- TODO: Make technologies links takes you to repositories -->
+#### i am learning for 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+ 
+ #### programming languages that i know
+ 
 
 [![django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Python Badge]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
@@ -30,9 +31,6 @@
  
 
  
-#### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dedmayyorr.dedmayyorr)
-<details>
 
  
 
