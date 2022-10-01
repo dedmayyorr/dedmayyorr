@@ -10,12 +10,12 @@
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently studying  at  Akilkhanov Tech academy
-- :computer: Most used line of code  git
-- 🤔 I’m looking for  best ideas
-- 📫 How to reach me: mfor8134@gmail.com or call to +998909078211
+- 🔭 I’m currently studying  at  Akilkhanov Tech academy <img src= "https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="55" heigh="55">
+- :computer: Most used line of code  git <img src= "https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="75">
+- 🤔 I’m looking for  best ideas <img src= "https://media.giphy.com/media/3U5rmUswe2y5mJ5lim/giphy.gif" width="75">
+- 📫 How to reach me: mfor8134@gmail.com or call to +998909078211 <img src="https://media.giphy.com/media/mbW2nvTE0TUc5IgRMm/giphy.gif" width="45">
 - 😄 Pronounce :  Ixa
-- ⚡ Fun fact: I play games .
+- ⚡ Fun fact: I play games <img src="https://media.giphy.com/media/UtEQ8viTEfCdiAOW4Q/giphy.gif" width="80">
 #### i am learning for 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
  
