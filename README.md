@@ -1,4 +1,5 @@
   ## Hi I'm I'm isfandiyor <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+ <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" widh="206px" height="206">
 
 
 :mailbox: Reach me out!
@@ -12,23 +13,31 @@
 - :computer: Most used line of code  git
 - 🤔 I’m looking for  best ideas
 - 📫 How to reach me:  mfor8134@gmail.com.
-- 😄 Pronouns: CoderOne, Ipenywis, islempenywis.
+- 😄 Pronouns:  Ixa
 - ⚡ Fun fact: I play games .
 
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
- 
+[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
+[![django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![Python Badge]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 <br />
 <br />
  
 
  
+#### Profile Visits 
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dedmayyorr.dedmayyorr)
+
+<details>
+
+ 
+ 
+
+ 
 #### Github Stats
 
 ![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=dedmayyorr&count_private=true&theme=tokyonight&hide=contribs,prs)
