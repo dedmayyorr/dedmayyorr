@@ -13,7 +13,7 @@
 - :computer: Most used line of code  git
 - 🤔 I’m looking for  best ideas
 - 📫 How to reach me: mfor8134@gmail.com or call to +998909078211
-- 😄 Pronouns:  Ixa
+- 😄 Pronounce :  Ixa
 - ⚡ Fun fact: I play games .
 
 #### Top Technologies
