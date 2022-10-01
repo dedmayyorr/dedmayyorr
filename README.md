@@ -19,15 +19,11 @@
 ####  my programming lines
 
 <!-- TODO: Make technologies links takes you to repositories -->
-<<<<<<< HEAD
-[![JAva Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
-[![django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-=======
+
 [![django Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
 [![Python Badge]( https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Html 5 Badge]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white )](#)
->>>>>>> 4de0eeb3c51810e1ec7947cf631bd73967123b30
+ 
 
 
  
