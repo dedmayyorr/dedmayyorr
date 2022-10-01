@@ -34,13 +34,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dedmayyorr.dedmayyorr)
 <details>
 
-<details>
  
-<details>
-
-<details>
-
-<details>
 
  
 #### Github Stats
